@@ -1,0 +1,26 @@
+
+**************************PARCIAL DE PROGRAMACION ******************************
+
+Fecha de entrega establecida 10/11/18
+
+Fecha a enviarse 09/11/18
+
+Estudiante: Edwin Alexander Benitez Granados
+
+Nº Carnet: BG18016
+
+Ejercicio Nº2 Sistema de colas c++
+
+
+_I N S T R U C C I O N E S_:
+
+---El codigo se realizo en *codeblock* para una mejor utilizacion optimizacion del compilador al momento de utilizar sonido en el sistema,
+
+*El codigo se encuentra en el main(c++Source File) para su respectiva revision.
+
+*Pasar a la carpeta bin, seguidamente entrar en carpeta Debug, 
+
+*Donde estara la ubicacion del ejecutable con sus audios respectivos
+
+El codigo se puede revisar en cualquier editor de texto pero para compilar y ejecutar exitosamente se prefiere que lo haga en codeblocks por su compilador
+Nota: lIBRERIA ANEXADA A LINKER: Winmmm
